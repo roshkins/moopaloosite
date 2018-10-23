@@ -13,8 +13,8 @@ Open to Full-time positions in SF for the right company.
 Full resume available if you contact me. So...
 
 ## Contact me!
-Email: moopaloo@moopaloo.com 
-I appreciate every email.
+Email: [moopaloo@moopaloo.com](mailto:moopaloo@moopaloo.com) 
+I appreciate short emails with a clear request.
 
 ## Pricing
 * $160 per hour of work up to 32 hours with 1 week turnaround
