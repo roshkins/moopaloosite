@@ -8,6 +8,8 @@ I have Backend skills using:
 * Python, Node.js (JavaScript), GoLang, Ruby
 I've done desktop .net development with .net, C#, Visual Basic. I can probably help you debug or finish your project.
 
+Open to Full-time positions in SF for the right company.
+
 Full resume available if you contact me. So...
 
 ## Contact me!
