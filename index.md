@@ -1,5 +1,6 @@
 
-# Moopaloo's Twitch Extensions
+# Welcome to Moopaloo.com
+# [Moopaloo](https://www.twitch.tv/moopaloo)'s Twitch Extensions
 You saw me developing at TwitchCon, now get your own extension made! 
 
 Or get your other software made, my skills include many Web App skills, such as React, Redux, Jest/Enzyme for Unit Testing, HTML, CSS, JavaScript used in production environments.
