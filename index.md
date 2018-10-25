@@ -27,6 +27,7 @@ I appreciate short emails with a clear request.
 * For every additional 32 hours of work, add one week to turnaround time
 * $10 per hour discount if you put an ad on your twitch stream for 1 month for me, will be refunded after the time period
 * Yes, I accept cryptocurrency
+* May be open to revenue sharing for a reduced rate
 
 ## Estimates
 * ~1 hour for a cosmetic change to an existing extension (text change, replace image, change color scheme, that sort of thing)
