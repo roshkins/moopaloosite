@@ -1,12 +1,12 @@
 
-# Welcome to Moopaloo.com
+# Welcome! I'm a developer.
 # [Moopaloo](https://www.twitch.tv/moopaloo)'s Twitch Extensions
 You saw me developing at TwitchCon, now get your own extension made! 
 
 Or get your other software made, my skills include many Web App skills, such as React, Redux, Jest/Enzyme for Unit Testing, HTML, CSS, JavaScript used in production environments.
 
 I have Backend skills using:
-* Python, Node.js (JavaScript), GoLang, Ruby
+* Python, Node.js (JavaScript), GoLang, Ruby On Rails
 I've done desktop .net development with .net, C#, Visual Basic. I can probably help you debug or finish your project.
 
 Open to Full-time positions in SF for the right company.
